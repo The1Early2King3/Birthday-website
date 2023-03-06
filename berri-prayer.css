@@ -87,7 +87,7 @@ nav {
 }
 @media (max-width: 700px) {
   .nav-links ul li a {
-    font-size: 16px;
+    font-size: 15px;
   }
   .nav-links ul li {
     padding: 8px 13px;
